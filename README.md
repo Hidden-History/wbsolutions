@@ -16,7 +16,7 @@ A modern, lightning-fast static website built with **HTML5**, **Tailwind CSS**, 
 
 <br />
 
-[View Live Site](https://wbsolutions.ca) · [Report Bug](https://github.com/yourusername/wb-solutions-html/issues) · [Request Feature](https://github.com/yourusername/wb-solutions-html/issues)
+[View Live Site](https://wbsolutions.ca) · [Report Bug](https://github.com/Hidden-History/wb-solutions-html/issues) · [Request Feature](https://github.com/Hidden-History/wb-solutions-html/issues)
 
 </div>
 
