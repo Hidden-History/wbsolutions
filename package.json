@@ -1,0 +1,13 @@
+{
+  "name": "wb-solutions-html",
+  "version": "1.0.0",
+  "description": "WB Solutions Static HTML Website",
+  "scripts": {
+    "build:css": "npx @tailwindcss/cli -i src/input.css -o css/styles.css --minify",
+    "watch:css": "npx @tailwindcss/cli -i src/input.css -o css/styles.css --watch",
+    "dev": "npx @tailwindcss/cli -i src/input.css -o css/styles.css --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+# robots.txt for wbsolutions.ca
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://wbsolutions.ca/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
